@@ -59,7 +59,7 @@ You don't need to update Font Helper manually by default unless you have disable
 Disable the updater systemd service:
 ```bash
 systemctl --user stop figma-fonthelper-updater.service
-systemctl --user disable ffigma-onthelper-updater.service
+systemctl --user disable figma-fonthelper-updater.service
 ```
 
 <br>
